@@ -1,0 +1,10 @@
+﻿2016/10/12 15:27:10:美联短信接口发送短信错误：error:Unauthorized IP address ,please login to your account [gzyskj] and add '113.111.209.107' to the IP white list.
+
+2016/10/12 15:29:11:美联短信接口发送短信错误：error:Unauthorized IP address ,please login to your account [gzyskj] and add '113.111.209.107' to the IP white list.
+
+2016/10/12 15:30:45:美联短信接口发送短信错误：error:Unauthorized IP address ,please login to your account [gzyskj] and add '113.111.209.107' to the IP white list.
+
+2016/10/12 15:35:18:美联短信接口发送短信错误：error:Unauthorized IP address ,please login to your account [gzyskj] and add '113.111.209.107' to the IP white list.
+
+2016/10/12 15:37:14:美联短信接口发送短信错误：error:Unauthorized IP address ,please login to your account [gzyskj] and add '113.111.209.107' to the IP white list.
+

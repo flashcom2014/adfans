@@ -1,0 +1,54 @@
+body,ul,ol,dl,p,h1,h2,h3,h4,h5,h6{margin:0;padding:0;font:12px '微软雅黑';color:#848585;}
+li{list-style: none}
+a{text-decoration: none;}
+.header{height:64px;}
+.headcon{width:900px;height:64px;margin:0 auto;text-align: center;line-height: 64px;color:#777;font-weight: bold}
+.wrapcontent{height:600px;background: #e3e7e8}
+.content{width:1000px;margin:0 auto;height:600px;position: relative;background: url(../images/promPic.jpg) no-repeat center top;}
+.footer{height:84px;}
+.footercon{width:900px;height:84px;margin:0 auto;text-align: center;line-height: 84px;color:#777;font-weight: bold}
+.imgbox{width:605px;height:600px;}
+
+
+.formcontent .bottom{height:65px;background:url(../images/bottom_bg.png) repeat-x;}
+.form{width:290px;position: absolute;top:65px;right:100px;background: #fdfdfd;overflow: hidden;border-radius:5px; box-shadow:0 0 8px #aaa;}
+.form .tabbtn{margin-bottom:40px;overflow: hidden}
+.form .tabbtn div{height:46px;text-align: center;float: left;width:290px;line-height: 46px;font-size:14px;}
+.form .tabbtn div a{display: block;color:#666;}
+.form .tabbtn .div1{border-right:1px solid #ced2d4;border-bottom:1px solid #ced2d4;background: url(../images/bg.png) repeat-x;}
+.form .in1,.form .in2{width:245px;height:40px;display:block;margin:0 auto;border-radius:5px;border:1px solid #a6a6a6;font-size:12px;color:#666;text-indent: 1em;font-family: "微软雅黑"}
+#mpwd,#apwd{margin-top:20px;}
+.form .in3{overflow: hidden ;width:245px;height:43px;display:block;margin:0 auto;font-size:12px;color:#666;font-family: "微软雅黑"}
+.form .in4{float:left;width:140px;height:38px;display:block;border-radius:5px;border:1px solid #a6a6a6;font-size:12px;color:#666;text-indent: 1em;font-family: "微软雅黑"}
+
+
+.registerform{width:350px;position: absolute;top:65px;right:100px;background: #fdfdfd;overflow: hidden;border-radius:5px; box-shadow:0 0 8px #aaa;}
+.registerform .tabbtn{margin-bottom:40px;overflow: hidden}
+.registerform .tabbtn div{height:46px;text-align: center;float: left;width:350px;line-height: 46px;font-size:14px;}
+.registerform .tabbtn div a{display: block;color:#666;}
+.registerform .tabbtn .div1{border-right:1px solid #ced2d4;border-bottom:1px solid #ced2d4;background: url(../images/bg.png) repeat-x;}
+.registerform .in1,.registerform .in2{width:300px;height:40px;display:block;margin:0 auto;border-radius:5px;border:1px solid #a6a6a6;font-size:12px;color:#666;text-indent: 1em;font-family: "微软雅黑"}
+.registerform .in3{overflow: hidden ;width:300px;height:43px;display:block;margin:0 auto;font-size:12px;color:#666;font-family: "微软雅黑"}
+.registerform .in4{float:right;width:120px;height:38px;display:block;border-radius:5px;border:1px solid #a6a6a6;font-size:12px;color:#666;text-indent: 1em;font-family: "微软雅黑"}
+
+.registerform .label1{float:left;width:100px;height:38px;display:block;line-height:38px;font-size:12px;color:#666;text-indent: 1em;font-family: "微软雅黑"}
+.registerform .in5{float:right;width:200px;height:38px;display:block;border-radius:5px;border:1px solid #a6a6a6;font-size:12px;color:#666;text-indent: 1em;font-family: "微软雅黑"}
+.registerform .codebutn{float:right;width:80px;height:38px;display:block;line-height:38px;font-size:12px;color:#666;text-indent: 1em;font-family: "微软雅黑"}
+
+.registerform .label2{margin:0 auto;width:200px;height:20px;display:block;font-size:12px;color:red;text-indent: 1em;font-family: "微软雅黑" }
+.registerform .in7{float:right;text-align:left;line-height:38px;border-radius:5px;border:1px solid #a6a6a6;width:200px;height:38px;display:block;font-size:12px;color:#3366FF;text-indent: 1em;font-family: "微软雅黑" }
+
+.buttonregister{width:300px;margin:20px auto;overflow: hidden}
+.btnregister{width:165px;height:36px;font-weight:bold;font-size:14px;font-family: "微软雅黑"}
+.checkbox{width:245px;margin:18px auto;overflow: hidden}
+.checkbox a{color:#848585;}
+.forget{float: right}
+.button{width:245px;margin:20px auto;overflow: hidden}
+.btn{width:110px;height:36px;font-weight:bold;font-size:14px;font-family: "微软雅黑"}
+#btn1,#btn3{float:left;border-radius:5px;border:1px solid #185aa5;background: #3487df;color:#fff;line-height:38px;text-align:center}
+#btn2,#btn4{float:right;border-radius: 5px;border:1px solid #afbfcf;background: #e3eff8;color:#6d798c;}
+#btn5{float:right;border-radius:5px;border:1px solid #185aa5;background: #3487df;color:#fff;line-height:38px;text-align:center}
+.version{width:245px;margin:18px auto;}
+.version select{border:1px solid #ccc;border-radius:3px;padding:3px 0px;color:#666;font-family: "微软雅黑"}
+.version span{color:#848585;}
+#content1{display: none}

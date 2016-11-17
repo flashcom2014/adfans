@@ -1,0 +1,15 @@
+.title{font-size:32px;color:#767f93;text-align: center;margin-top:40px;}
+.r1{margin-top:30px;}
+.r1 strong{font-size: 14px;font-weight: bold;color: red}
+.r1 div:nth-of-type(2),.r2 div:nth-of-type(2){border-right:none;border-left:none;}
+.bt{text-align: center;padding: 10px 0;color: #555;font-size: 24px}
+.row p{line-height: 20px;font-size: 13px;color: #777}
+.row div{border:1px solid #ddd;min-height:335px;padding:20px;margin-top:10px;}
+.r2{margin-top:30px;padding-bottom: 30px}
+.dailiimg{display:block;margin:0 auto;width:40%}
+@media screen and (max-width: 768px){
+  .row div{border:none;border-bottom: 1px solid #eee}
+}
+@media screen and (min-width:769px) and (max-width: 991px){
+  .row div{min-height: 340px}
+}

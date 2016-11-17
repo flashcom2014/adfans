@@ -1,0 +1,10 @@
+.content{margin-top:50px;}
+h1{text-align:center;font-size:32px;color:#444;margin-top:10px;}
+h1 span{color:#e5e6e6;font-weight:100;font-size: 12px;padding:0 20px;}
+.block{margin-top:20px;border-bottom:1px solid #eee;padding-bottom: 30px;}
+.title{font-size:16px;font-weight:bold;color:#444;}
+.title span{color:#e5e6e6;font-weight:100;font-size: 12px;padding:0 20px;}
+.block p{line-height: 28px;text-indent: 2em;margin-top: 20px;font-size:15px;}
+.title1{text-align: center;font-size:30px;color:#444;font-weight:200;margin-top:50px;}
+.contact p{font-size:15px;font-weight:bold;line-height: 25px;text-indent: 3em}
+.contact p span{padding-right:10px;}
